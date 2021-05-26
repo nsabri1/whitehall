@@ -364,6 +364,23 @@ en:
     world_locations:
       all: All locations
       label: World locations
+    consultation:
+      all: All consultations
+      label: Consultations
+    policy_and_guidance:
+      label: Policy and guidance
+    research_and_analysis:
+      label: Research and analysis
+    research_and_statistics:
+      label: Research and statistics
+    corporate:
+      label: Corporate
+    other:
+      label: Other
+    world_locations:
+      all: All locations
+      label: World locations
+      no_locations_filter: No world locations match that filter.
   feeds:
     email: email
     feed: feed
