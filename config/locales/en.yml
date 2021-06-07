@@ -545,7 +545,9 @@ en:
     written_statement: See all our written statements to Parliament
   support:
     download: Download
+    field_of_operation: "Field of operation:"
     filter: Filter
+    part_of_collection: "Part of a collection:"
     array:
       last_word_connector: " and "
   time:
