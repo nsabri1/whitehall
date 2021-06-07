@@ -549,6 +549,11 @@ so:
     download:
     field_of_operation:
     filter:
+    pagination:
+      next:
+      next_page:
+      previous:
+      previous_page:
     part_of_collection:
   time:
     formats:
