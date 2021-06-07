@@ -557,6 +557,11 @@ en:
     download: Download
     field_of_operation: "Field of operation:"
     filter: Filter
+    pagination:
+      next: Next
+      next_page: Next page
+      previous: Previous
+      previous_page: Previous page
     part_of_collection: "Part of a collection:"
     array:
       last_word_connector: " and "
