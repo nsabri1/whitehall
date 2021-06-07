@@ -529,6 +529,7 @@ el:
     array:
       last_word_connector: και
     download:
+    filter:
   time:
     formats:
       long_ordinal:

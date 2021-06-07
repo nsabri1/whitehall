@@ -537,6 +537,7 @@ en:
     written_statement: See all our written statements to Parliament
   support:
     download: Download
+    filter: Filter
     array:
       last_word_connector: " and "
   time:
