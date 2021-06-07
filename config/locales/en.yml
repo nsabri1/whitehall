@@ -496,6 +496,9 @@ en:
       works_with: Works with
   publications:
     heading: Publications
+    statistics:
+      link_to_published statistics: Find a list of published and upcoming government statistics in the %{link} statistics section.
+      moved_notice: Statistics publications have moved.
   see_all:
     announcement: See all our announcements
     authored_article: See all our authored articles

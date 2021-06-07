@@ -481,6 +481,9 @@
       works_with:
   publications:
     heading:
+    statistics:
+      link_to_published statistics:
+      moved_notice:
   see_all:
     announcement:
     authored_article:
