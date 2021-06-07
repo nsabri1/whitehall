@@ -536,6 +536,7 @@ en:
     transparency: See all our transparency data
     written_statement: See all our written statements to Parliament
   support:
+    download: Download
     array:
       last_word_connector: " and "
   time:

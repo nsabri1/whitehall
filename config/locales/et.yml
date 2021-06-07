@@ -533,6 +533,7 @@ et:
   support:
     array:
       last_word_connector: ja
+    download:
   time:
     formats:
       long_ordinal:
