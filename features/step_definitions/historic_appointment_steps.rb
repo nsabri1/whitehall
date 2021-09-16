@@ -49,13 +49,6 @@ Then(/^I should see the previous prime ministers listed according the century in
   end
 end
 
-When(/^I view the most recent past prime minister$/) do
-  # On page check check the most recent past prime minster
-  within ".historic-appointments-index" do
-    find("a", text: @most_recent_appointment.person.name).click
-  end
-end
-
 Then(/^I should see the most recent past priminister's historical account on the page$/) do
   expect(page).to have_content(@most_recent_appointment.historical_account.summary)
   expect(page).to have_content(@most_recent_appointment.historical_account.body)
